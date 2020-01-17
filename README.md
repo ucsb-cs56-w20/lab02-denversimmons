@@ -1,14 +1,11 @@
 # lab02-denversimmons
 
-* TODO: Correct the links to the javadoc and repo below, then delete this TODO
-
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-denversimmons/
 Repo: https://github.com/ucsb-cs56-w20/lab02-denversimmons
 
 # About this repo
 
 This is a minimal "Hello World" type webapp built with Spring Boot.
-
 
 # Sources
 
